@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-jiwan:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-11T17:56:59.5015596+09:00"
+    description: A Helm chart for Kubernetes
+    digest: edb4a22cd33e28795888b040760e4329389042de119be1209fa7384de104f569
+    name: eventapp-jiwan
+    urls:
+    - https://cloudclass-lab.github.io/mycharts/eventapp-jiwan-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-11T17:56:59.5015596+09:00"
